@@ -1,2 +1,2 @@
 # wildfire-ca-dash
-wildfire cellautomic simulator in dash
+wildfire cellular automaton simulator in dash
